@@ -46,8 +46,8 @@ public class Main {
         System.out.println(" За месяц машина произвела " + bottleInMonth + " штук бутылок. ");
 
         System.out.println(" Задача 5 ");
-        int cansfor1Cabinet = 2 + 4;
-        int cabinet = 120 / cansfor1Cabinet;
+        int cansFor1Cabinet = 2 + 4;
+        int cabinet = 120 / cansFor1Cabinet;
         int whitePaint = cabinet * 2;
         int brownPaint = 120 - whitePaint;
         System.out.println(" В школе где " + cabinet + " классов, нужно " + whitePaint + " банок белой краски и " + brownPaint + " банок коричневой краски ");
